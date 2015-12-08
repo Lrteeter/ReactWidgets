@@ -1,0 +1,6 @@
+.focused {
+  font-weight: bold;
+  font-size: 30px;
+  background-color: #000;
+  color: #fff;
+}
